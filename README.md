@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **madtv129/madtv129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+(he/him)
+Hello! I'm Kelvin Lim! 👋
+
+📕 I'm a recently graduated highschool student who is currently looking to expand their horizons on programming.
+
+✏️ Currently working and studying under UBC's HackCamp Weekend to get the basics and submit a project!
+
+🎮 Love gaming and love to program most things game related!
