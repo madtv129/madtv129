@@ -18,6 +18,6 @@ Hello! I'm Kelvin Lim! 👋
 
 📕 I'm a recently graduated highschool student who is currently looking to expand their horizons on programming.
 
-✏️ Currently working and studying under UBC's HackCamp Weekend to get the basics and submit a project!
+✏️ Currently studying at BCIT and working on personal projects.
 
 🎮 Love gaming and love to program most things game related!
